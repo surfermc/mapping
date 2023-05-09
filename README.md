@@ -10,8 +10,9 @@ The map is then exported as scalable vector graphic .svg file for further editin
 
 ## Software
 
-Mapertitive from <http://maperitive.net/>
-Inkscape from <https://inkscape.org/>
+- Mapertitive from <http://maperitive.net/>
+- Inkscape from <https://inkscape.org/>
+
 Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http://maperitive.net/docs/TenMinutesIntro.html>
 
 ## Maperitive
@@ -20,9 +21,9 @@ Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http:/
 
 1. Open Maperitive
 2. Scroll and zoom the map to the required area.
-3. Download the OSM data (click Map > Download OSM Data )
+3. Download the OSM data (Map > Download OSM Data )
 4. In the Map Sources window, bottom right, de-select the Web map, custom rules are not applied to the web map.
-5. Apply a custom set of rendering rules (click Map > Switch to Rendering Rules)
+5. Apply a custom set of rendering rules (Map > Switch to Rendering Rules)
 
 ### Load the Route
 
