@@ -37,15 +37,17 @@ Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http:/
 
 ### Custom Rulesets
 
-The default rules files are available in `C:\Program Files\Maperitive\Rules`
-The files hav an extension `.mrules`
-Copy the file and edit using a text editor.
+The default rules files are available in `C:\Program Files\Maperitive\Rules`.
+
+The files have the extension `.mrules`.
+
+Copy the file and edit using a text editor. The Maperitive tutorials will give an overview of the structure and format of the ruleset files.
 
 #### Adding New Rulesets
 
-1. Determine what rules file you want to have available
-2. Copy the `.mrules` file you want from this repo into the 'rules' folder within your maperitive installation (Windows default would be `C:\Program Files\Maperitive\Rules`)
-3. Start Maperitive
+1. Using the ruleset file you have available or edited.
+2. Copy the `.mrules` file you want into the 'rules' folder within your maperitive installation (Windows default would be `C:\Program Files\Maperitive\Rules`).
+3. Start Maperitive.
 4. In the "Command Prompt" box at the bottom enter `use-ruleset location=rules\<RULEFILENAME>.mrules as-alias="<Rule Alias Name>"`
 5. `<RULEFILENAME>.mrules` should be replaced with the actual filename of the rule file
 6. `<Rule Alias Name>` should be replaced with the alias you want to appear in the rules list in Maperitive
