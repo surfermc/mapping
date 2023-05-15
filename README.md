@@ -22,20 +22,22 @@ Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http:/
 1. Open Maperitive
 2. Scroll and zoom the map to the required area.
 3. Download the OSM data (Map > Download OSM Data )
-4. In the Map Sources window, bottom right, de-select the Web map, custom rules are not applied to the web map.
+4. In the Map Sources window, bottom right, de-select the Web map, custom rendering rules are not applied to the web map.
 5. Apply a set of rendering rules (Map > Switch to Rendering Rules)
 
 ### Load the Route
 
-1. Import the gpx file for the route (File > Open Map Sources)
+Import the gpx file for the route (File > Open Map Sources)
 
 ### Export the Map for futher processing
 
-1. Select the export (Tools > Export to .....bitmap or svg)
+Select the export (Tools > Export to .....bitmap or svg)
 
 ## Maperitive using scripts
 
-It is possible to create script files that contain all the information for producing maps, automating all the steps above :- loading map date, choosing a rendering rule-set, loading a route file and exporting a png or svg file. An example has been added to the Scripts folder.
+It is possible to create script files `.mscript` that contain all the information for producing maps, automating all the steps above :- loading map date, choosing a rendering rule-set, loading a route file and exporting a png or svg file. An example has been added to the Scripts folder.
+
+Select to run a script (File > Run Script... )
 
 ## Customising Maperitive
 
