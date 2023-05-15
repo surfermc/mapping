@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<trk>
+<name>MarhullShortLoopExampleTrk</name>
+<trkseg>
+<trkpt lat="50.967049" lon="-2.3143601">
+<ele>84</ele>
+<time>2023-05-15T00:00:00Z</time></trkpt>
+<trkpt lat="50.967019" lon="-2.314349">
+<ele>84</ele>
+<time>2023-05-15T00:00:02Z</time></trkpt>
+<trkpt lat="50.966763" lon="-2.315807">
+<ele>84</ele>
+<time>2023-05-15T00:01:19Z</time></trkpt>
+<trkpt lat="50.966661" lon="-2.316129">
+<ele>85</ele>
+<time>2023-05-15T00:01:37Z</time></trkpt>
+<trkpt lat="50.966378" lon="-2.316891">
+<ele>86</ele>
+<time>2023-05-15T00:02:22Z</time></trkpt>
+<trkpt lat="50.96609" lon="-2.317943">
+<ele>85</ele>
+<time>2023-05-15T00:03:20Z</time></trkpt>
+<trkpt lat="50.965711" lon="-2.319086">
+<ele>86</ele>
+<time>2023-05-15T00:04:25Z</time></trkpt>
+<trkpt lat="50.965711" lon="-2.319086">
+<ele>86</ele>
+<time>2023-05-15T00:04:25Z</time></trkpt>
+<trkpt lat="50.966081" lon="-2.319313">
+<ele>87</ele>
+<time>2023-05-15T00:04:57Z</time></trkpt>
+<trkpt lat="50.966863" lon="-2.319723">
+<ele>88</ele>
+<time>2023-05-15T00:06:03Z</time></trkpt>
+<trkpt lat="50.967185" lon="-2.319718">
+<ele>87</ele>
+<time>2023-05-15T00:06:28Z</time></trkpt>
+<trkpt lat="50.967435" lon="-2.319796">
+<ele>86</ele>
+<time>2023-05-15T00:06:49Z</time></trkpt>
+<trkpt lat="50.968321" lon="-2.320364">
+<ele>80</ele>
+<time>2023-05-15T00:08:05Z</time></trkpt>
+<trkpt lat="50.968429" lon="-2.320357">
+<ele>79</ele>
+<time>2023-05-15T00:08:14Z</time></trkpt>
+<trkpt lat="50.969074" lon="-2.320139">
+<ele>76</ele>
+<time>2023-05-15T00:09:07Z</time></trkpt>
+<trkpt lat="50.969188" lon="-2.320153">
+<ele>76</ele>
+<time>2023-05-15T00:09:16Z</time></trkpt>
+<trkpt lat="50.970107" lon="-2.320882">
+<ele>76</ele>
+<time>2023-05-15T00:10:38Z</time></trkpt>
+<trkpt lat="50.97058" lon="-2.321054">
+<ele>76</ele>
+<time>2023-05-15T00:11:17Z</time></trkpt>
+<trkpt lat="50.971175" lon="-2.321075">
+<ele>78</ele>
+<time>2023-05-15T00:12:05Z</time></trkpt>
+<trkpt lat="50.971877" lon="-2.320946">
+<ele>83</ele>
+<time>2023-05-15T00:13:02Z</time></trkpt>
+<trkpt lat="50.972269" lon="-2.321032">
+<ele>83</ele>
+<time>2023-05-15T00:13:33Z</time></trkpt>
+<trkpt lat="50.972803" lon="-2.321289">
+<ele>84</ele>
+<time>2023-05-15T00:14:18Z</time></trkpt>
+<trkpt lat="50.972803" lon="-2.321275">
+<ele>84</ele>
+<time>2023-05-15T00:14:19Z</time></trkpt>
+<trkpt lat="50.972803" lon="-2.321275">
+<ele>84</ele>
+<time>2023-05-15T00:14:19Z</time></trkpt>
+<trkpt lat="50.972795" lon="-2.320655">
+<ele>82</ele>
+<time>2023-05-15T00:14:50Z</time></trkpt>
+<trkpt lat="50.972656" lon="-2.31994">
+<ele>81</ele>
+<time>2023-05-15T00:15:28Z</time></trkpt>
+<trkpt lat="50.972445" lon="-2.31934">
+<ele>80</ele>
+<time>2023-05-15T00:16:03Z</time></trkpt>
+<trkpt lat="50.972307" lon="-2.318799">
+<ele>77</ele>
+<time>2023-05-15T00:16:32Z</time></trkpt>
+<trkpt lat="50.971959" lon="-2.31825">
+<ele>76</ele>
+<time>2023-05-15T00:17:11Z</time></trkpt>
+<trkpt lat="50.971724" lon="-2.317735">
+<ele>75</ele>
+<time>2023-05-15T00:17:43Z</time></trkpt>
+<trkpt lat="50.971537" lon="-2.316958">
+<ele>73</ele>
+<time>2023-05-15T00:18:25Z</time></trkpt>
+<trkpt lat="50.971437" lon="-2.316147">
+<ele>71</ele>
+<time>2023-05-15T00:19:07Z</time></trkpt>
+<trkpt lat="50.971507" lon="-2.315246">
+<ele>70</ele>
+<time>2023-05-15T00:19:53Z</time></trkpt>
+<trkpt lat="50.971667" lon="-2.314154">
+<ele>69</ele>
+<time>2023-05-15T00:20:50Z</time></trkpt>
+<trkpt lat="50.971671" lon="-2.314149">
+<ele>69</ele>
+<time>2023-05-15T00:20:50Z</time></trkpt>
+<trkpt lat="50.971671" lon="-2.314149">
+<ele>69</ele>
+<time>2023-05-15T00:20:50Z</time></trkpt>
+<trkpt lat="50.971667" lon="-2.314154">
+<ele>69</ele>
+<time>2023-05-15T00:20:50Z</time></trkpt>
+<trkpt lat="50.971529" lon="-2.313821">
+<ele>68</ele>
+<time>2023-05-15T00:21:10Z</time></trkpt>
+<trkpt lat="50.971216" lon="-2.313529">
+<ele>68</ele>
+<time>2023-05-15T00:21:40Z</time></trkpt>
+<trkpt lat="50.971021" lon="-2.313417">
+<ele>68</ele>
+<time>2023-05-15T00:21:56Z</time></trkpt>
+<trkpt lat="50.970643" lon="-2.313349">
+<ele>67</ele>
+<time>2023-05-15T00:22:27Z</time></trkpt>
+<trkpt lat="50.970267" lon="-2.313279">
+<ele>68</ele>
+<time>2023-05-15T00:22:57Z</time></trkpt>
+<trkpt lat="50.969317" lon="-2.312857">
+<ele>73</ele>
+<time>2023-05-15T00:24:16Z</time></trkpt>
+<trkpt lat="50.968634" lon="-2.312492">
+<ele>78</ele>
+<time>2023-05-15T00:25:14Z</time></trkpt>
+<trkpt lat="50.967442" lon="-2.311911">
+<ele>83</ele>
+<time>2023-05-15T00:26:54Z</time></trkpt>
+<trkpt lat="50.967433" lon="-2.311928">
+<ele>83</ele>
+<time>2023-05-15T00:26:55Z</time></trkpt>
+<trkpt lat="50.967433" lon="-2.311928">
+<ele>83</ele>
+<time>2023-05-15T00:26:55Z</time></trkpt>
+<trkpt lat="50.967333" lon="-2.312117">
+<ele>83</ele>
+<time>2023-05-15T00:27:07Z</time></trkpt>
+<trkpt lat="50.967044" lon="-2.314184">
+<ele>84</ele>
+<time>2023-05-15T00:28:54Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

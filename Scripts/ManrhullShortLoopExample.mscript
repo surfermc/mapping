@@ -1,0 +1,16 @@
+clear-map
+use-script-dir
+
+use-ruleset ../Rules/Better_mapnik_white.mrules
+set-setting name=map.decoration.scale value=true
+set-setting name=map.decoration.attribution value=true
+load-source ../Source/marnhull.osm
+
+load-source ../Routes/MarnhullShortLoopExample.gpx
+set-geo-bounds -2.3236,50.9654,-2.3096,50.9731
+set-print-bounds-geo
+
+export-bitmap file=output/MarnhullShortLoopExample.png zoom=16 dpi=300
+export-svg compatibility=inkscape file=output/MarnhullShortLoopExample.svg zoom=15.4
+set-setting name=map.decoration.scale value=false
+set-setting name=map.decoration.attribution value=false
