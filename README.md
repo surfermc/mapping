@@ -10,7 +10,7 @@ The map is then exported as scalable vector graphic .svg file for further editin
 
 ## Software
 
-- Mapertitive from <http://maperitive.net/>
+- Maperitive from <http://maperitive.net/>
 - Inkscape from <https://inkscape.org/>
 
 Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http://maperitive.net/docs/TenMinutesIntro.html>
