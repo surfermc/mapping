@@ -15,7 +15,7 @@ The map is then exported as scalable vector graphic .svg file for further editin
 
 Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http://maperitive.net/docs/TenMinutesIntro.html>
 
-## Maperitive
+## Maperitive interactively
 
 ### Load the Background Map
 
@@ -23,7 +23,7 @@ Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http:/
 2. Scroll and zoom the map to the required area.
 3. Download the OSM data (Map > Download OSM Data )
 4. In the Map Sources window, bottom right, de-select the Web map, custom rules are not applied to the web map.
-5. Apply a custom set of rendering rules (Map > Switch to Rendering Rules)
+5. Apply a set of rendering rules (Map > Switch to Rendering Rules)
 
 ### Load the Route
 
@@ -33,7 +33,11 @@ Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http:/
 
 1. Select the export (Tools > Export to .....bitmap or svg)
 
-### Custmoising Maperitive
+## Maperitive using scripts
+
+It is possible to create script files that contain all the information for producing maps, automating all the steps above :- loading map date, choosing a rendering rule-set, loading a route file and exporting a png or svg file. An example has been added to the Scripts folder.
+
+## Customising Maperitive
 
 ### Custom Rulesets
 
@@ -43,7 +47,7 @@ The files have the extension `.mrules`.
 
 Copy the file and edit using a text editor. The Maperitive tutorials will give an overview of the structure and format of the ruleset files.
 
-#### Adding New Rulesets
+### Adding New Rulesets
 
 1. Using the ruleset file you have available or edited.
 2. Copy the `.mrules` file you want into the 'rules' folder within your maperitive installation (Windows default would be `C:\Program Files\Maperitive\Rules`).
@@ -61,6 +65,4 @@ Map data from Openstreet map <https://www.openstreetmap.org>
 1. Select the Export tab, top left
 2. Manually select an area.
 3. Select the Export button. This should download a file map.osm
-There are limits on the size of the files that can be downloaded from Openstreetmap.
-
-I usually create a script files to process my map
+There are limits on the size of the files that can be downloaded from Openstreetmap or one of the other sources listed.
