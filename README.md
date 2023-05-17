@@ -15,7 +15,7 @@ The map is then exported as scalable vector graphic .svg file for further editin
 
 Read the tutorials <http://maperitive.net/docs/TwoMinutesIntro.html> and <http://maperitive.net/docs/TenMinutesIntro.html>
 
-## Maperitive interactively
+## Using Maperitive interactively
 
 ### Load the Background Map
 
@@ -33,11 +33,13 @@ Import the gpx file for the route (File > Open Map Sources)
 
 Select the export (Tools > Export to .....bitmap or svg)
 
-## Maperitive using scripts
+## Using Maperitive scripts
 
-It is possible to create script files `.mscript` that contain all the information for producing maps, automating all the steps above :- loading map date, choosing a rendering rule-set, loading a route file and exporting a png or svg file. An example has been added to the Scripts folder.
+It is possible to create script files `.mscript` that contain all the information for producing maps, automating all the steps above :- loading map date, choosing a rendering rule-set, loading a route file and exporting a png or svg file. 
 
 Select to run a script (File > Run Script... )
+
+An example `.mscript` has been added to the Scripts folder. The script creates 2 output files in .png and .svg format.
 
 ## Customising Maperitive
 
