@@ -3,7 +3,7 @@
 My maps consist of :-
 
 1. The backgroud is created from Openstreetmap data.
-2. A GPX route file of the path to be followed.
+2. A GPX file of the path to be followed.
 
 The maps are  processed using Maperitive utilsing a custom set of rules.
 The map is then exported as scalable vector graphic .svg file for further editing in Inkscape.
